@@ -1,0 +1,19 @@
+{
+  "title_ar": "إيصال التحويل",
+  "title_en": "Transfer Receipt",
+  "date": "2026/10/16",
+  "beneficiary_note": "لمستفيد في بنك محلي",
+  "reference": "9116102601017005",
+  "section_ar": "تفاصيل التحويل",
+  "section_en": "Transfer Details",
+  "amount": "40 SAR",
+  "from_name": "ساره سعود علي الدريويش",
+  "from_iban": "SA** **** **** **** **** 5683",
+  "from_bank": "Al Rajhi Bank",
+  "to_name": "بشرى مشهور",
+  "to_iban": "SA3430100949000011328286",
+  "purpose": "اخرى",
+  "remark": "بحوث وواجبات",
+  "website": "Alrajhibank.com.sa",
+  "phone": "920 003 344"
+}
